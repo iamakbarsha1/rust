@@ -1,0 +1,7 @@
+fn main() {
+    let mut x = 5;
+    println!("The value of x is: {x}");
+
+    x = 10;
+    println!("Now the x is: {x}")
+}
