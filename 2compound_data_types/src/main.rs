@@ -35,8 +35,21 @@ fn main() {
         // - growable/expandable/inscreasable/decreasable
         // - mutable - push, delete items
         // - owned string types
+    
+    let mut my_string: String = String::from("My name is ");
+    my_string.push_str("Akbar SHa!");
+    println!("My string: {}", my_string);
+
     // String SLices:
+        // B- &str (String Slice)
         // 
+    let string: String = String::from("Assalamu alaikum wrwb, Akbarsha!");
+    let slice: &str = &string;
+    let slice_4: &str = &string[0..21];
+    println!("Slice value: {}", slice);
+    println!("Slice value till index 4: {}", slice_4);
+    
+
 
 
 
