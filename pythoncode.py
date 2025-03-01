@@ -121,5 +121,3 @@ print("Multiples of 3 in range 10 to 15:")
 for i in range(10, 16):
     if i % 3 == 0:
         print(i)
-
-Let me know if you need any modifications or explanations!
