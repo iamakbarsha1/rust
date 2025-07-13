@@ -36,6 +36,7 @@ Replace the `println!` macro with `print!`. What happens?
 * second - cargo check - check the code syntax and throws errors
 * third - cargo build - build the project with executables
 * fourth - cargo run - run the applciation/project
+* 5 - cargo clean - removes all executables in the target folder
 */
 
 /*
@@ -48,7 +49,7 @@ METHODS to run the rust project:
 * then at the main.rs file location, use './main' to manually run the executable file
 *
 * METHOD - 2:- CARGO
-* cargo build - only compile
+* cargo build - only compile - parses the Rust source code and compiles it to the executable program that the computer runs
 * cargo run - compile and run
 *
 * METHOD - 3:- DEBUG
