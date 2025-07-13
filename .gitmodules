@@ -1,3 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = git@github.com:rust-lang/rustlings.git
+[submodule "learn-to-code-with-rust"]
+	path = learn-to-code-with-rust
+	url = git@github.com-personal:paskhaver/learn-to-code-with-rust.git
