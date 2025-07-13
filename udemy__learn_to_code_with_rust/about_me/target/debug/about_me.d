@@ -1,0 +1,1 @@
+/Users/akbarsha/Documents/code/personal/rust/udemy__learn_to_code_with_rust/about_me/target/debug/about_me: /Users/akbarsha/Documents/code/personal/rust/udemy__learn_to_code_with_rust/about_me/src/main.rs
