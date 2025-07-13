@@ -38,6 +38,10 @@ Replace the `println!` macro with `print!`. What happens?
 * fourth - cargo run - run the applciation/project
 */
 
+/*
+METHODS to run the rust project:
+*/
+
 /* METHOD - 1:
 * else move into /src folder
 * then, use 'rustc main.rs' to create a executable rust file
